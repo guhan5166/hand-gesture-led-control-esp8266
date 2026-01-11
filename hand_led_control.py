@@ -3,8 +3,8 @@ import mediapipe as mp
 import requests
 
 # --------- Configuration ----------
-ESP_IP = "192.168.31.234"  # Replace with your ESP8266 IP
-ESP_URL = f"http://192.168.31.234/"
+ESP_IP = "192.168.xx.xxx"  # Replace with your ESP8266 IP
+ESP_URL = f"http://192.168.xx.xxx/"
 
 # --------- MediaPipe Setup ----------
 from mediapipe.python.solutions import hands as mp_hands
