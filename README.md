@@ -39,7 +39,7 @@ This project demonstrates a real-time hand gesture controlled LED system using a
 6. Run the Python script.
 
 ## 📽️ Demo Video
-https://drive.google.com/file/d/1RMjdm_skT6eDZNkecMCbYzQjl9s-EkI-/view?usp=drive_link
+https://www.linkedin.com/posts/guhan5166_python-opencv-mediapipe-activity-7416152394004180992-RJ7T?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAGL0OwgBfeybBRfI52tgYAi14AVKBheuAGQ&utm_campaign=copy_link
 
 ## 📌 Applications
 - Touchless control systems
